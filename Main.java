@@ -1,8 +1,6 @@
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class Main{
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner s = new Scanner(System.in);
